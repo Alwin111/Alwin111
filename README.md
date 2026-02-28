@@ -1,64 +1,33 @@
-# 👋Hi, I'm Alwin Varghese
+# 👋 Hi, I'm Alwin Varghese
 
 Embedded Systems Developer | Wireless Security Researcher | IoT Engineer
 
-I build secure, production-oriented embedded systems with a strong focus on Bluetooth Low Energy (BLE), wireless communication, and real-world IoT architecture. My work combines low-level firmware development, system reliability, and security-driven design principles.
+I build secure, production-oriented embedded systems focused on Bluetooth Low Energy (BLE), wireless communication, and real-world IoT architecture. My work combines low-level firmware development, system reliability, and security-driven design.
 
 ---
 
-## About Me
+## About
 
-I am focused on designing embedded systems that are secure, scalable, and resilient. My interests lie at the intersection of:
-
-- Embedded firmware development  
-- Bluetooth Low Energy architecture  
-- Wireless security and signal analysis  
-- IoT system design  
-- Secure communication protocols  
-
-I prioritize clean architecture, fault tolerance, and practical security implementation over theoretical design.
+I design embedded systems that are secure, scalable, and resilient, working at the intersection of firmware development, BLE architecture, wireless security, signal analysis, IoT systems, and secure communication protocols. I prioritize clean architecture, fault tolerance, and practical security implementation.
 
 ---
 
 ## Technical Skills
 
-### Embedded & IoT
-- ESP32  
-- BLE (GATT, Advertising, RSSI-based logic)  
-- MQTT  
-- Real-time device communication  
-
-### Security & Wireless
-- Wireless protocol analysis  
-- SDR-based signal research  
-- Secure firmware practices  
-- Network-level security concepts  
-
-### Programming
-- C  
-- C++  
-- Python  
-- Bash  
-
-### Environment
-- Linux  
-- Raspberry Pi  
-- Git & Version Control  
-- Docker  
+**Embedded & IoT:** ESP32, BLE (GATT, Advertising, RSSI logic), MQTT, real-time device communication  
+**Security & Wireless:** Wireless protocol analysis, SDR research, secure firmware practices, network security concepts  
+**Programming:** C, C++, Python, Bash  
+**Environment:** Linux, Raspberry Pi, Git, Docker  
 
 ---
 
 ## Current Focus
 
-- Advanced BLE security mechanisms  
-- Secure embedded communication models  
-- Resilient IoT architecture  
-- Signal-informed access control systems  
+Advanced BLE security mechanisms, secure embedded communication models, resilient IoT architecture, and signal-informed access control systems.
 
 ---
 
 ## Contact
 
-Open to technical discussions, research collaboration, and embedded systems development opportunities.
-
+Open to technical discussions and collaboration.  
 GitHub: https://github.com/Alwin111
