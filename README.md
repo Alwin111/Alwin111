@@ -24,7 +24,3 @@ I build secure embedded systems for BLE, wireless communication, and IoT—cover
 BLE security, resilient IoT systems, and signal-based access control
 
 ---
-
-## Contact
-
-GitHub: https://github.com/Alwin111
