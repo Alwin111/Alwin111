@@ -2,32 +2,34 @@
 
 Embedded Systems Developer | Wireless Security Researcher | IoT Engineer
 
-I build secure, production-oriented embedded systems focused on Bluetooth Low Energy (BLE), wireless communication, and real-world IoT architecture. My work combines low-level firmware development, system reliability, and security-driven design.
-
 ---
 
 ## About
 
-I design embedded systems that are secure, scalable, and resilient, working at the intersection of firmware development, BLE architecture, wireless security, signal analysis, IoT systems, and secure communication protocols. I prioritize clean architecture, fault tolerance, and practical security implementation.
+I build secure embedded systems focused on Bluetooth Low Energy (BLE), wireless communication, and IoT. My work spans firmware development, PCB design (KiCad, Altium), and security-driven system architecture.
 
 ---
 
 ## Technical Skills
 
-**Embedded & IoT:** ESP32, BLE (GATT, Advertising, RSSI logic), MQTT, real-time device communication  
-**Security & Wireless:** Wireless protocol analysis, SDR research, secure firmware practices, network security concepts  
-**Programming:** C, C++, Python, Bash  
-**Environment:** Linux, Raspberry Pi, Git, Docker  
+**Embedded & IoT:** ESP32, Arduino, BLE (GATT, Advertising, RSSI-based logic), MQTT, ARM architecture, real-time communication, communication protocols
+
+**Security & Wireless:** Wireless protocol analysis, SDR (HackRF, GNU Radio), BLE development, secure firmware practices, network security fundamentals
+
+**Programming:** C, C++, Python, Bash, Embedded C
+
+**Environment & Tools:** Linux, Raspberry Pi, Git, ESP-IDF
 
 ---
 
 ## Current Focus
 
-Advanced BLE security mechanisms, secure embedded communication models, resilient IoT architecture, and signal-informed access control systems.
+Advanced BLE security mechanisms, secure embedded communication models, resilient IoT architectures, and signal-based access control systems.
 
 ---
 
 ## Contact
 
-Open to technical discussions and collaboration.  
+Open to technical discussions and collaboration
+
 GitHub: https://github.com/Alwin111
