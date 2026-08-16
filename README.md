@@ -2,7 +2,7 @@
 
 **Embedded Systems Engineer | Wireless & Hardware Security | IoT**
 
-B.Tech ECE, Amrita Vishwa Vidyapeetham · Member, [Team bi0s](https://bi0s.in) — India's top-ranked student hardware security group
+B.Tech ECE, Amrita Vishwa Vidyapeetham · Member, [Team bi0s Hardware](https://bi0shardware.in) — India's top-ranked student hardware security group
 
 ---
 
