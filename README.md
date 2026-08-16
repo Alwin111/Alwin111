@@ -44,4 +44,4 @@ I build and break embedded systems — firmware, RF/BLE protocols, and IoT secur
 
 ### 📫 Connect
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/alwin-varghese-58a45a330/) · [Email](mailto:alwinroman123@gmail.com)
